@@ -1,0 +1,1 @@
+console.log('Hello my friend, \n this message and its meaning \n \t was formatted using "Javascript"')
